@@ -1,2 +1,3 @@
 # gitt
-first progect
+first progect in my path 
+
